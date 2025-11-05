@@ -36,7 +36,7 @@ These projects showcase my ability to solve real-world problems using advanced d
 I am actively looking for opportunities in Data Science, Data Analysis, and Machine Learning. Feel free to connect or reach out!
 
 * **LinkedIn:** [in/ashe-love](https://www.linkedin.com/in/ashe-love)
-* **Email:** your.professional.email@example.com (Replace with your actual email)
+* **Email:** ashelove6969@gmail.com
 
 ---
 
