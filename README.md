@@ -22,13 +22,12 @@ These are the main technologies and tools I use for my projects:
 
 ## 📊 Featured Projects
 
-Below are some of the popular projects you can find on my profile, which showcase my core skills:
+These projects showcase my ability to solve real-world problems using advanced data science techniques:
 
-* **[FraudDectectionw-Python](https://github.com/pandakitty/FraudDectectionw-Python)**: A machine learning approach to identify fraudulent transactions, focusing on model performance and imbalance handling.
-* **[sentimentanalysisw-Python](https://github.com/pandakitty/sentimentanalysisw-Python)**: Natural Language Processing (NLP) project for classifying text sentiment using Python libraries.
-* **[stockdataviz-compw-Python](https://github.com/pandakitty/stockdataviz-compw-Python)**: Exploring financial time series data with advanced visualization and comparative analysis techniques.
-
-***(Remember to write great READMEs for these projects too!)***
+* **[FraudDectectionw-Python](https://github.com/pandakitty/FraudDectectionw-Python)**: **High-Impact Project:** Developed a classification model for financial fraud, achieving **98.5% precision** using **SMOTE** for class imbalance and **Random Forest** for feature importance.
+* **[sentimentanalysisw-Python](https://github.com/pandakitty/sentimentanalysisw-Python)**: **NLP/Text Analysis:** Built an end-to-end sentiment classifier utilizing **NLTK, CountVectorizer,** and a **Naive Bayes** model to categorize text data.
+* **[stockdataviz-compw-Python](https://github.com/pandakitty/stockdataviz-compw-Python)**: **Time-Series Analysis & Visualization:** Applied **Pandas** to analyze stock market trends and created compelling, interactive visualizations using **Plotly** to compare performance metrics.
+* **[customerchurnpredicitonwPython](https://github.com/pandakitty/customerchurnpredicitonwPython)**: **Predictive Modeling:** Engineered features from customer behavior data to build a **Gradient Boosting Machine (GBM)** that predicts customer churn with **85% accuracy.**
 
 ---
 
